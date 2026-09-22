@@ -1,0 +1,2 @@
+Hello, this is my EliteTech C++ internship Task 1.
+This is additional data added using the append operation.
